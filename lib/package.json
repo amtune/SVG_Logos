@@ -1,0 +1,30 @@
+{
+    "name": "svg-logo-maker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+      "example": "examples",
+      "lib": "lib"
+    },
+    "scripts": {
+      "start": "node index.js",
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/amtune/SVG_Logos.git"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/amtune/SVG_Logos/issues"
+    },
+    "homepage": "https://github.com/amtune/SVG_Logos.git#readme",
+    "dependencies": {
+      "inquirer": "8.2.5"
+    },
+    "devDependencies": {
+      "jest": "^28.1.3"
+    }
+  }
