@@ -1,6 +1,8 @@
 {
-  "dependencies": {
-    "js": "^0.1.0",
-    "node": "^20.5.0"
+"dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
   }
 }
